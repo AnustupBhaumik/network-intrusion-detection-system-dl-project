@@ -106,7 +106,7 @@ The goal is to analyze their effectiveness in detecting modern cyber attacks and
 ### 📊 Key Observations
 
 - **CNN-LSTM achieved the best performance**
-  - Captures temporal dependencies across network flows
+  - Captures temporal dependencies across the network flows
   - Excellent detection of multi-stage attacks
 
 - **XGBoost is highly efficient**
