@@ -199,7 +199,9 @@ jupyter notebook
 ---
 
 ## 👨‍💻 Author
-
+**Anustup Bhaumik**
+M.Sc. Computer Science
+📧 [bhaumikanustup268@gmail.com]
 **Tanmoy Paul**
 M.Sc. Data Science & Artificial Intelligence
 📧 [paultanmoy408@gmail.com]
